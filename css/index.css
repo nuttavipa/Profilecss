@@ -1,0 +1,99 @@
+body{
+    background-color: #D4B499;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+    text-shadow: -1px -1px#7D5A50,1px 1px#B4846C;   
+}
+
+h2{
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif; 
+    font-weight: 100;
+    text-shadow: -1px -1px#7D5A50, 1px 1px#B4846C;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-weight: 100;
+
+}
+.table td{
+    background-color: #F8E2CF;
+}
+
+.tablemenu td:hover{
+    background-color: #D4B499;    
+}
+
+.table {
+    width:100%;
+    text-align: center;
+    font-family: 'Rampart One', cursive;
+}
+
+.table-aboutme{
+    width:100%;
+    text-align: center;
+}
+
+
+.th-aboutme{
+    width: 33.33%; 
+    vertical-align: top; 
+    text-align:left;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.aboutme{
+    text-decoration: underline;
+    color: #4D3E3E;
+}
+
+.p-aboutme{
+    font-weight: normal;
+    text-align: justify;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 100
+}
+
+.p-email{
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+}
+
+.th-img {
+    width: 33.33%; 
+    vertical-align: top;
+    text-align: center;
+}
+
+.th-details{
+    width: 33.33%;
+    vertical-align: top; 
+    text-align:left;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.detail{
+    text-align: left;
+    text-decoration: underline;
+    color: #4D3E3E;   
+}
+
+.p-name{
+    font-weight: normal;
+    
+}
+.p-footer {
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+   
+  
+
+
+
